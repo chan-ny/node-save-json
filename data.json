@@ -1,0 +1,37 @@
+{
+    "header":
+    {
+        "file1":0,
+        "file2":1,
+        "subfiles":{
+          "subfile1":"true",
+          "subfile2":"true"
+        }
+    },
+
+    "response":
+    {
+        "number":678,
+        "start":0,
+        "docs":[
+            {
+                "id":"d3f3d",
+                "code":"l876s",
+                "country_name":"United States",
+                "city":"LA"
+            },
+            {
+                "id":"d2f2d",
+                "code":"2343g",
+                "country_name":"UK",
+                "city":"London"
+            },
+            {
+                "id":"d2f1d",
+                "code":"2343g",
+                "country_name":"UK",
+                "city":"London"
+            }
+        ]
+    }
+}
